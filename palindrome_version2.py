@@ -5,6 +5,7 @@ word = word.replace(" ", "")
 for c in string.punctuation:
     word = word.replace(c,'')
 
+#Here is a comment
 count_1 = 0
 count_2 = -1
 a = word[count_1]
